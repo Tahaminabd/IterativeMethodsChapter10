@@ -44,7 +44,8 @@ To run the MATLAB scripts, navigate to the `solutions` directory and execute the
     ```
 3. Run the desired solution script:
     ```matlab
-    solution1
+   - `general_static_pattern_ilu.m`: MATLAB implementation of the General Static Pattern ILU algorithm.
+
     ```
 
 ## Contributing
